@@ -1,1 +1,1 @@
-<img src="assets/donte.gif" length=900px />
+<img src="assets/donte.gif" length=1200px />
