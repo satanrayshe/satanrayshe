@@ -20,8 +20,6 @@
 </table>
 
 
-<br>
-
 <h3 align="center">  $\mathfrak{trying\ to\ prevent\ skynet\ @\ Fourth\ Echelon}$ </h3>
 
 <h3 align="center">♰──*༺♱༻*──♰ $\mathfrak{let's\ rock\ baby}$ ♰──*༺♱༻*──♰</h3>
