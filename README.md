@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/JavaScript-2b2b2e?style=for-the-badge&logo=javascript&logoColor=ff1a2e" />
 <img src="https://img.shields.io/badge/C++-2b2b2e?style=for-the-badge&logo=cplusplus&logoColor=ff1a2e" />
 <img src="https://img.shields.io/badge/Rust-2b2b2e?style=for-the-badge&logo=rust&logoColor=ff1a2e" />
+<img src="https://img.shields.io/badge/TypeScript-2b2b2e?style=for-the-badge&logo=typescript&logoColor=ff1a2e"/>
+<img src="https://img.shields.io/badge/Bash-2b2b2e?style=for-the-badge&logo=gnubash&logoColor=ff1a2e"/>
+<img src="https://img.shields.io/badge/Linux-2b2b2e?style=for-the-badge&logo=linux&logoColor=ff1a2e"/>
     </td>
   </tr> 
 </table>
