@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/shreysati/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff1a2e&logoColor=ffffff&labelColor=2b2b2e&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>  
-  <a href="mailto:satanrayshe@://proton.me">
+  <a href="mailto:shrey.sati@://fourthechelon.in">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff1a2e&logoColor=ffffff&labelColor=2b2b2e&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
